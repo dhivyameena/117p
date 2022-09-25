@@ -1,0 +1,18 @@
+body {
+    background-color:aquamarine;
+}
+
+#score_span {
+    font-size: large;
+    float: left;
+}
+
+#timer_span {
+    font-size: large;
+    float: right;
+}
+
+#sketch_to_draw {
+    font-weight: bold;
+    font-size: larger;
+}
